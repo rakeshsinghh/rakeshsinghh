@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Rakesh Singh
+# Hi👋, I'm Rakesh Singh
 
-### Aspiring Data Analyst | Power BI Enthusiast | SQL & Excel Learner
+### Passionate Data Analyst Turning Data into Insights
 
 ---
 
